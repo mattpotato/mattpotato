@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Matt! I'm a software engineer with experience building full stack web applications using React, JavaScript, Node.js, Express, SQL, and NoSQL Databases.
 
-Check this [full stack web app](https://canban-pi.vercel.app/ ) I'm currently working on, and the [source code](https://github.com/mattpotato/kanban) 
+Check out this [full stack web app](https://canban-pi.vercel.app/ ) I'm currently working on, and the [source code](https://github.com/mattpotato/kanban). 
 
 <!--
 **mattpotato/mattpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
